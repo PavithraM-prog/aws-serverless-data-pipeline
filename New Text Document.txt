@@ -1,0 +1,1 @@
+This folder is intended for the AWS Lambda function code that processes CSV files from S3 and stores data in dynamodb
